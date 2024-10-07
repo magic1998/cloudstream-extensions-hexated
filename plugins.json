@@ -619,7 +619,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
         "fileSize": 33297,
-        "status": 0,
+        "status": 1,
         "language": "en",
         "authors": [
             "Hexated"
